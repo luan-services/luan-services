@@ -39,13 +39,9 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 ### 📊 Minhas Estatísticas do GitHub
 
 <div>
-  <a align="left" href="https://github.com/luan-services">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-services&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <a align="left" href="https://github.com/luan-services"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-services&layout=compact&langs_count=7&theme=dracula"/></a>
   &nbsp; &nbsp; 
-  <a align="right" href="https://github.com/luan-services">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-services&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+  <a align="right" href="https://github.com/luan-services"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-services&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
 </div>
 
 ---
@@ -53,11 +49,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 ### 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luan-peixoto-jardim-4989b3205/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
+  <a href="https://www.linkedin.com/in/luan-peixoto-jardim-4989b3205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   &nbsp; &nbsp; 
-  <a href="mailto:luandotservices@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <a href="mailto:luandotservices@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>

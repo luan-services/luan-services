@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2>
   Olá, eu sou Luan Peixoto. 👋
-</h1>
+</h2>
 
 <br>
 
@@ -41,9 +41,9 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/luan-services">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-services&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-services&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 

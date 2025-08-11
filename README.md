@@ -2,18 +2,16 @@
   Olá, eu sou Luan Peixoto. 👋
 </h2>
 
-<br>
-
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre mim
 
 <p align="left">
 
   💬 Estudante na Universidade Federal Fluminense, sou desenvolvedor fullstack, apaixonado por criar, aprender e inovar, desejo criar projetos que serão úteis para as pessoas.<br>
   🚀 Atualmente estou trabalhando em desenvolver um app de rastreamento de ônibus.<br>
   🌱 No momento estou focado em estudar sobre estruturas de dados e algoritmos.<br>
-  📫 Como me encontrar: <a href="mailto:luandotservices@gmail.com"><strong>luandotservices@gmail.com</strong></a><br> || <a href="mailto:luan_peixoto@id.uff.br"><strong>luan_peixoto@id.uff.br</strong></a><br>
+  📫 Como me encontrar: <a href="mailto:luandotservices@gmail.com"><strong>luandotservices@gmail.com</strong></a> || <a href="mailto:luan_peixoto@id.uff.br"><strong>luan_peixoto@id.uff.br</strong></a><br>
 </p>
 
 ---
@@ -23,16 +21,16 @@
 Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 <p align="left">
-  <strong>Linguagens:</strong><br>
+  <strong>Linguagens:</strong><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python,c,html,css" />
+    <img height="15px" src="https://skillicons.dev/icons?i=javascript,python,c,html,css" />
   </a>
 </p>
 
 <p align="left">
-  <strong>Tecnologias</strong><br>
+  <strong>Tecnologias</strong><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,mysql,mongodb,git,github" />
+    <img height="15px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,mysql,mongodb,git,github" />
   </a>
 </p>
 
@@ -40,18 +38,20 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/luan-services">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-services&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+  <a align="left" href="https://github.com/luan-services">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-services&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+  <a align="right" href="https://github.com/luan-services">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-services&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 ---
 
-### 📫 Conecte-se Comigo
+### 📫 Conecte-se comigo
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/luan-peixoto-jardim-4989b3205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>

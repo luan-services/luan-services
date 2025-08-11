@@ -23,14 +23,14 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 <p align="left">
   <strong>Linguagens:</strong><br><br>
   <a href="https://skillicons.dev">
-    <img height="15px" src="https://skillicons.dev/icons?i=javascript,python,c,html,css" />
+    <img height="30px" src="https://skillicons.dev/icons?i=javascript,python,c,html,css" />
   </a>
 </p>
 
 <p align="left">
   <strong>Tecnologias</strong><br><br>
   <a href="https://skillicons.dev">
-    <img height="15px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,mysql,mongodb,git,github" />
+    <img height="30px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,mysql,mongodb,git,github" />
   </a>
 </p>
 
@@ -42,6 +42,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
   <a align="left" href="https://github.com/luan-services">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-services&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+  &nbsp; &nbsp; 
   <a align="right" href="https://github.com/luan-services">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luan-services&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>

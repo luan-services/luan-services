@@ -28,7 +28,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 </p>
 
 <p align="left">
-  <strong>Tecnologias</strong><br><br>
+  <strong>Tecnologias></strong><br><br>
   <a href="https://skillicons.dev">
     <img height="30px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,mysql,mongodb,git,github" />
   </a>
@@ -55,7 +55,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 <p align="left">
   <a href="https://www.linkedin.com/in/luan-peixoto-jardim-4989b3205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  </a> 
+  &nbsp; &nbsp; 
   <a href="mailto:luandotservices@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>

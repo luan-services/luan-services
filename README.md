@@ -1,16 +1,11 @@
-<h2>
-  Olá, eu sou Luan Peixoto. 👋
-</h2>
-
----
 
 ### 👨‍💻 Sobre mim
 
 <p align="left">
 
-  💬 Estudante na Universidade Federal Fluminense, sou desenvolvedor fullstack, apaixonado por criar, aprender e inovar, desejo criar projetos que serão úteis para as pessoas.<br>
-  🚀 Atualmente estou trabalhando em desenvolver um app de rastreamento de ônibus.<br>
-  🌱 No momento estou focado em estudar sobre estruturas de dados e algoritmos.<br>
+  💬 Estudante na Universidade Federal Fluminense, sou desenvolvedor fullstack, apaixonado por criar, aprender e inovar, desejo projetar soluções que serão úteis para as pessoas.<br>
+  🚀 Projeto: Atualmente estou trabalhando em desenvolver um app de rastreamento de ônibus.<br>
+  🌱 Estudo: No momento estoum focado em estruturas de dados e algoritmos em C.<br>
   📫 Como me encontrar: <a href="mailto:luandotservices@gmail.com"><strong>luandotservices@gmail.com</strong></a> || <a href="mailto:luan_peixoto@id.uff.br"><strong>luan_peixoto@id.uff.br</strong></a><br>
 </p>
 
@@ -28,7 +23,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 </p>
 
 <p align="left">
-  <strong>Tecnologias></strong><br><br>
+  <strong>Tecnologias:</strong><br><br>
   <a href="https://skillicons.dev">
     <img height="30px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,mysql,mongodb,git,github" />
   </a>

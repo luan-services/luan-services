@@ -1,5 +1,5 @@
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 <p align="left">
 

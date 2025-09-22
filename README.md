@@ -3,10 +3,10 @@
 
 <p align="left">
 
-  💬 Estudante na Universidade Federal Fluminense, sou desenvolvedor fullstack, apaixonado por criar, aprender e inovar, desejo projetar soluções que serão úteis para as pessoas.<br>
-  🚀 Projeto: Atualmente estou trabalhando em desenvolver um app de rastreamento de ônibus.<br>
-  🌱 Estudo: No momento estoum focado em estruturas de dados e algoritmos em C.<br>
-  📫 Como me encontrar: <a href="mailto:luandotservices@gmail.com"><strong>luandotservices@gmail.com</strong></a> || <a href="mailto:luan_peixoto@id.uff.br"><strong>luan_peixoto@id.uff.br</strong></a><br>
+  Estudante na Universidade Federal Fluminense, sou desenvolvedor fullstack, apaixonado por criar, aprender e inovar, desejo projetar soluções que serão úteis para as pessoas.<br>
+  *Projeto:* Atualmente estou trabalhando em uma landing page de floricultura, além de estar contribuindo para o <a href="https://www.instagram.com/egeu.app/"><strong>Egeu App</strong><br>
+  *Estudo:* No momento estoum focado em estruturas de dados e algoritmos em C.<br>
+  *Como me encontrar:* <a href="mailto:luandotservices@gmail.com"><strong>luandotservices@gmail.com</strong></a> || <a href="mailto:luan_peixoto@id.uff.br"><strong>luan_peixoto@id.uff.br</strong></a><br>
 </p>
 
 ---

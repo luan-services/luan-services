@@ -5,7 +5,7 @@
 
   Estudante na Universidade Federal Fluminense, sou desenvolvedor fullstack, apaixonado por criar, aprender e inovar, desejo projetar soluções que serão úteis para as pessoas.<br><br>
   🚀 <strong>Projeto:</strong> Atualmente estou trabalhando em uma landing page de floricultura, além de estar contribuindo para o <a href="https://www.instagram.com/egeu.app/"><strong>Egeu App</strong></a><br>
-  🌱 <strong>Estudo:</strong> No momento estoum focado em estruturas de dados e algoritmos em C.<br>
+  🌱 <strong>Estudo:</strong> No momento estudando estruturas de dados e algoritmos em C e aprendendo a usar o framework Astro.<br>
   📫 <strong>Como me encontrar:</strong> <a href="mailto:luandotservices@gmail.com"><strong>luandotservices@gmail.com</strong></a> || <a href="mailto:luan_peixoto@id.uff.br"><strong>luan_peixoto@id.uff.br</strong></a><br>
 </p>
 

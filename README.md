@@ -18,7 +18,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 <p align="left">
   <strong>Linguagens:</strong><br><br>
   <a href="https://skillicons.dev">
-    <img height="30px" src="https://skillicons.dev/icons?i=javascript,python,c,html,css" />
+    <img height="30px" src="https://skillicons.dev/icons?i=javascript,typescript,python,c,html,css" />
   </a>
 </p>
 

@@ -25,7 +25,10 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 <p align="left">
   <strong>Tecnologias:</strong><br><br>
   <a href="https://skillicons.dev">
-    <img height="30px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,docker,fastify,express,mysql,postgresql,astro,mongodb,prisma,git,github" />
+    <img height="30px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,docker,express,mysql,postgresql,astro,mongodb,prisma,git,github" />
+  </a>
+  <a href="[https://skillicons.dev](https://skills.syvixor.com)">
+    <img height="30px" src="https://skills.syvixor.com/api/icons?i=fastify" />
   </a>
 </p>
 

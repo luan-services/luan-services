@@ -15,15 +15,16 @@
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
+
+<strong>Linguagens:</strong><br><br>
 <p align="left">
-  <strong>Linguagens:</strong><br><br>
   <a href="https://skillicons.dev">
     <img height="30px" src="https://skillicons.dev/icons?i=javascript,typescript,python,c,html,css" />
   </a>
 </p>
 
+<strong>Tecnologias:</strong><br><br>
 <p align="left">
-  <strong>Tecnologias:</strong><br><br>
   <a href="https://skillicons.dev"><img height="30px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,docker,express,mysql,postgresql,astro,mongodb,prisma,git,github"/></a> <a href="https://skills.syvixor.com"><img height="30px" src="https://skills.syvixor.com/api/icons?i=fastify" /></a>
 </p>
 

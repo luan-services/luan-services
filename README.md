@@ -25,7 +25,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 <p align="left">
   <strong>Tecnologias:</strong><br><br>
   <a href="https://skillicons.dev">
-    <img height="30px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,mysql,astro,mongodb,git,github" />
+    <img height="30px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,docker,fastify,express,mysql,postgresql,astro,mongodb,prisma,git,github" />
   </a>
 </p>
 

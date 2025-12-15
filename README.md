@@ -1,36 +1,33 @@
 
-### Sobre mim
+### About Me
 
 <p align="left">
-
-  Estudante na Universidade Federal Fluminense, sou desenvolvedor fullstack, apaixonado por criar, aprender e inovar, desejo projetar soluções que serão úteis para as pessoas.<br><br>
-  🚀 <strong>Projeto:</strong> Atualmente estou trabalhando no <a href="https://www.instagram.com/egeu.app/"><strong>Egeu App</strong></a><br>
-  🌱 <strong>Estudo:</strong> No momento estudando o framework Fastify, aprendendo a usar Docker e Prisma<br>
-  📫 <strong>Como me encontrar:</strong> <a href="mailto:luandotservices@gmail.com"><strong>luandotservices@gmail.com</strong></a> || <a href="mailto:luan_peixoto@id.uff.br"><strong>luan_peixoto@id.uff.br</strong></a><br>
+  Hello!!<br>
+  Bachelor student at Universidade Federal Fluminense, I am a fullstack software engineer that loves to create, learn and code.<br><br>
+  🚀 <strong>Projects:</strong> Currently I am working at <a href="https://www.instagram.com/egeu.app/"><strong>Egeu App</strong></a> and <a href="https://github.com/luan-services/fancy-ui-library"><strong>Fancy UI</strong></a <br>
+  🌱 <strong>Studying:</strong>Currently I am studying about Docker, Prisma and PostgreSQL.<br>
+  📫 <strong>How to find me:</strong> <a href="mailto:luandotservices@gmail.com"><strong>luandotservices@gmail.com</strong></a> || <a href="mailto:luan_peixoto@id.uff.br"><strong>luan_peixoto@id.uff.br</strong></a><br>
 </p>
 
 ---
 
-### 🛠️ Habilidades e Tecnologias
+### 🛠️ Tech Stacks
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
-
-
-<strong>Linguagens:</strong><br><br>
+<strong>Programming languages:</strong><br><br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img height="30px" src="https://skillicons.dev/icons?i=javascript,typescript,python,c,html,css" />
   </a>
 </p>
 
-<strong>Tecnologias:</strong><br><br>
+<strong>Libraries, Frameworks and other technology:</strong><br><br>
 <p align="left">
   <a href="https://skillicons.dev"><img height="30px" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,docker,express,mysql,postgresql,astro,mongodb,prisma,git,github"/></a> <a href="https://skills.syvixor.com"><img height="30px" src="https://skills.syvixor.com/api/icons?i=fastify" /></a>
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+### 📊 My GitHub statistics
 
 <div>
   <a align="left" href="https://github.com/luan-services"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-services&layout=compact&langs_count=7&theme=dracula"/></a>
@@ -40,7 +37,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado recentemente:
 
 ---
 
-### 📫 Conecte-se comigo
+### 📫 Get in touch
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luan-peixoto-jardim-4989b3205/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 

@@ -4,7 +4,7 @@
 <p align="left">
   Hello!!<br>
   Bachelor student at Universidade Federal Fluminense, I am a fullstack software engineer that loves to create, learn and code.<br><br>
-  🚀 <strong>Projects:</strong> Currently I am working at <a href="https://www.instagram.com/egeu.app/"><strong>Egeu App</strong></a> and <a href="https://github.com/luan-services/fancy-ui-library"><strong>Fancy UI</strong></a <br>
+  🚀 <strong>Projects:</strong> Currently I am working at <a href="https://www.instagram.com/egeu.app/"><strong>Egeu App</strong></a> and <a href="https://github.com/luan-services/fancy-ui-library"><strong>Fancy UI</strong></a><br>
   🌱 <strong>Studying:</strong>Currently I am studying about Docker, Prisma and PostgreSQL.<br>
   📫 <strong>How to find me:</strong> <a href="mailto:luandotservices@gmail.com"><strong>luandotservices@gmail.com</strong></a> || <a href="mailto:luan_peixoto@id.uff.br"><strong>luan_peixoto@id.uff.br</strong></a><br>
 </p>

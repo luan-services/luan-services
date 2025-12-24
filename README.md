@@ -2,7 +2,7 @@
 ### About Me
 
 <p align="left">
-  Hello!!<br>
+  Hello!<br>
   Bachelor student at Universidade Federal Fluminense, I am a fullstack software engineer that loves to create, learn and code.<br><br>
   🚀 <strong>Projects:</strong> Currently I am working at <a href="https://www.instagram.com/egeu.app/"><strong>Egeu App</strong></a> and <a href="https://github.com/luan-services/fancy-ui-library"><strong>Fancy UI</strong></a><br>
   🌱 <strong>Studying:</strong> I am learning about Docker, Prisma and PostgreSQL.<br>
